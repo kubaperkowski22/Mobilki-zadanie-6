@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  baner
+
+  Created by student on 14/11/2023.
+  Copyright © 2023 sm. All rights reserved.
+*/
+
+"Information"="Information";
+"Desc"="The faculty is running %i programs on graduate and undergraduate level.";
+"image"="wi-en-2";
